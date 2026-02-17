@@ -1,0 +1,11 @@
+# secrets
+*.json
+*.toml
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# streamlit local
+.streamlit/
